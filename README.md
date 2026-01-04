@@ -13,13 +13,14 @@ Passionate about trustworthy, multimodal AI for healthcare. Building production-
 | Project | Description | Stars | Key Results |
 |---------|-------------|-------|-------------|
 | [![MSD](https://img.shields.io/github/stars/ashpakshaikh26732/Medical-Segmentation-Decathlon?style=social)](https://github.com/ashpakshaikh26732/Medical-Segmentation-Decathlon) **Medical-Segmentation-Decathlon** | TPU-native SOTA framework for MSD (10 tasks). UNET++/TransUNet/SwinTransUNet + 3-stage OHEM. | ![Stars](https://img.shields.io/github/stars/ashpakshaikh26732/Medical-Segmentation-Decathlon) | 73-94% Dice across tasks • Sliding-window inference |
+| **Adversarial-Defense-MedAI** (WIP) | Robustness for med seg: FGSM/PGD/CW attacks + defenses (adv training, StyleGAN aug). Config-driven. | – | Defended Dice recovery demos coming |
+| **Project Swasthya** | Privacy-first federated enviro-health system (Flower FL + AWS MLOps). Unified ERD/UML blueprints. | – | Phased MVP → Causal Inference |
+| **MedAI Assistant** (In Progress) | Multimodal med assistant: Seg + Report Gen + RAG + Voice. Culmination of all work. | – | Jan-Jun 2026 MVP |
+
 [![Stars](https://img.shields.io/github/stars/ashpakshaikh26732/Medical-Segmentation-Decathlon)](https://github.com/ashpakshaikh26732/Medical-Segmentation-Decathlon/stargazers)
 [![Forks](https://img.shields.io/github/forks/ashpakshaikh26732/Medical-Segmentation-Decathlon)](https://github.com/ashpakshaikh26732/Medical-Segmentation-Decathlon/network/members)
 [![License](https://img.shields.io/github/license/ashpakshaikh26732/Medical-Segmentation-Decathlon)](LICENSE)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange)](https://www.tensorflow.org)
-| **Adversarial-Defense-MedAI** (WIP) | Robustness for med seg: FGSM/PGD/CW attacks + defenses (adv training, StyleGAN aug). Config-driven. | – | Defended Dice recovery demos coming |
-| **Project Swasthya** | Privacy-first federated enviro-health system (Flower FL + AWS MLOps). Unified ERD/UML blueprints. | – | Phased MVP → Causal Inference |
-| **MedAI Assistant** (In Progress) | Multimodal med assistant: Seg + Report Gen + RAG + Voice. Culmination of all work. | – | Jan-Jun 2026 MVP |
 
 ## 🛠 Tech Stack
 
