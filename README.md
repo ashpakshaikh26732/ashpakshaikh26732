@@ -1,3 +1,7 @@
+[![Stars](https://img.shields.io/github/stars/ashpakshaikh26732/Medical-Segmentation-Decathlon)](https://github.com/ashpakshaikh26732/Medical-Segmentation-Decathlon/stargazers)
+[![Forks](https://img.shields.io/github/forks/ashpakshaikh26732/Medical-Segmentation-Decathlon)](https://github.com/ashpakshaikh26732/Medical-Segmentation-Decathlon/network/members)
+[![License](https://img.shields.io/github/license/ashpakshaikh26732/Medical-Segmentation-Decathlon)](LICENSE)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange)](https://www.tensorflow.org)
 # 👋 Hi, I'm Ashpak Shaikh
 
 **Medical AI Researcher | Keras Team Contributor (Google) | Ex-DICOM AIML Intern @ UniDoc Healthcare**
@@ -17,19 +21,13 @@ Passionate about trustworthy, multimodal AI for healthcare. Building production-
 | **Project Swasthya** | Privacy-first federated enviro-health system (Flower FL + AWS MLOps). Unified ERD/UML blueprints. | – | Phased MVP → Causal Inference |
 | **MedAI Assistant** (In Progress) | Multimodal med assistant: Seg + Report Gen + RAG + Voice. Culmination of all work. | – | Jan-Jun 2026 MVP |
 
-[![Stars](https://img.shields.io/github/stars/ashpakshaikh26732/Medical-Segmentation-Decathlon)](https://github.com/ashpakshaikh26732/Medical-Segmentation-Decathlon/stargazers)
-[![Forks](https://img.shields.io/github/forks/ashpakshaikh26732/Medical-Segmentation-Decathlon)](https://github.com/ashpakshaikh26732/Medical-Segmentation-Decathlon/network/members)
-[![License](https://img.shields.io/github/license/ashpakshaikh26732/Medical-Segmentation-Decathlon)](LICENSE)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange)](https://www.tensorflow.org)
+
 
 ## 🛠 Tech Stack
 
-| Category | Tools |
-|----------|-------|
-| Core | TensorFlow • Keras • PyTorch • TPU/GPU |
-| Medical | NiBabel • PyVista • DICOM • MSD/BraTS |
-| MLOps | AWS (SageMaker, ECS, Timestream) • GCS • Flower FL |
-| Generative/Robustness | StyleGAN • Adversarial Training • DP |
+| Core Frameworks      | Medical & MLOps              | Generative/Robustness |
+|----------------------|------------------------------|-----------------------|
+| TensorFlow • Keras • PyTorch | NiBabel • PyVista • TPU • AWS/GCS • Flower FL | StyleGAN • Adversarial Training • DP |
 
 ## 📫 Connect
 - LinkedIn: [ashpak-shaikh-88a7372b0](https://www.linkedin.com/in/ashpak-shaikh-88a7372b0)
