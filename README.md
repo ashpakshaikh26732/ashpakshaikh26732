@@ -33,6 +33,6 @@ Passionate about trustworthy, multimodal AI for healthcare. Building production-
 
 ## 📫 Connect
 - LinkedIn: [ashpak-shaikh-88a7372b0](https://www.linkedin.com/in/ashpak-shaikh-88a7372b0)
-- Email: [your email]
+- Email: [ashpakshaikh26732@gmail.com]
 
 Contributions welcome! 🚀
